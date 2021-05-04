@@ -1,0 +1,11 @@
+.vs/
+
+**/bin/
+**/obj/
+**/*.user
+**/launchSettings.json
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
